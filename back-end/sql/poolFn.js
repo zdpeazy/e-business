@@ -18,10 +18,5 @@ module.exports = {
             });
         })
          
-    },
-
-    // json格式
-    writeJson(ctx, code = 200, msg = 'ok', data = null) {
-        
     }
 };
